@@ -1,0 +1,181 @@
+#tophead{
+    background-color: rgb(92, 19, 29);
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 0%;
+    height: auto;
+    
+
+    
+}
+body{
+    font-size: 20px;
+    background-color: rgb(132, 220, 223);
+}
+#logo{
+    width:20%;
+    height:25%;
+}
+#slogan{
+    text-align :center;
+    font-style: italic;
+    font-size: 125%;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+h1{
+    font: size 135%;
+}
+#leftbar{
+    border: 1px ;
+    width:20%;
+    float:left;
+    height: 200ch;
+    text-align:left;
+    display: table-cell;
+    margin: 0px;
+    line-height: 250%;
+    background-color:rgb(54, 148, 202);
+}
+#leftbargoal{
+    border: 1px ;
+    width:20%;
+    float:left;
+    height: 170ch;
+    text-align:left;
+    display: table-cell;
+    position: absolute;
+    margin: 0px;
+    line-height: 250%;
+    background-color:rgb(54, 148, 202);
+}
+#rightbar{
+    border: 1px ;
+    width: 70%;
+   
+    text-align:left;
+    display: table-cell;
+    font-size: 135%;
+    border-left: 1px;
+    position: absolute;
+    margin-left: 20%;
+   
+    
+   
+}
+#rightbaraim{
+    border: 1px ;
+    width: 70%;
+    float:right;
+    text-align:center;
+    display: table-cell;
+    font-size: 135%;
+    border-left: 1px;
+    position: absolute;
+    padding: 24px;
+    margin-left:28%;
+    line-height: 55px;
+
+}
+#courses{
+    width: 60%;
+    float:right;
+    text-align: left;
+    font: 366px;
+    margin-bottom: 15px;
+    position:absolute;
+    height: 25vh;
+    margin-left:20%;
+
+
+
+}
+#foot{
+    background-color:rgb(22, 8, 8);
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding: 0%;
+    line-height:0.2;
+    object-fit: fill;
+    
+
+}
+#foot1{
+    background-color:rgb(131, 12, 12);
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding: 0%;
+    line-height:0.1;
+    object-fit: fill;
+    font-size: medium;
+    align-content: center;
+    align-items: center;
+
+}
+
+#address{
+    float: left;
+    color: rgb(29, 23, 23);
+    padding: 25px;
+   
+    
+    
+
+}
+#contact{
+    float: left;
+    color:rgb(15, 10, 10);
+    padding: 25px;
+    margin-left: 5%;
+    
+
+}
+#social{
+    float:right;
+    color: rgb(37, 29, 29);
+    padding: 25px
+}
+a{
+    text-decoration:none;
+    padding:5px;
+    margin: 5px;
+
+}
+a:hover{
+    background-color: rgb(91, 206, 76);
+}
+a:active{
+    background-color: blue;
+}
+#navigation,a{
+    padding-right: 55px;
+    padding-top: 15px;
+    padding-bottom: 26px;
+    margin-left:5%;
+    text-align: center;
+    align-items:center;
+    font-size: 30px;
+    
+
+}
+#images{
+    float: left;
+    width: 5%;
+    height: 6%;
+}
+#slides{
+    align-content: center;
+    padding: 0px;
+    margin-top: 0%;
+    
+}
+table{
+    align-content: left;
+}
+video {
+    width: 100%;
+    object-fit: fill;
+}
